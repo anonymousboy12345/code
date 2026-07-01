@@ -2,8 +2,8 @@
   "codes": [
     {
       "code": "1214",
-      "used": true,
-      "deviceId": ":70cbd14220dcd2d7:d60103303841333931107c6142c0671d"
+      "used": false,
+      "deviceId": null
     },
     {
       "code": "2541",

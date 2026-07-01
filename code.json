@@ -29,6 +29,11 @@
       "code": "420",
       "used": false,
       "deviceId": null
+    },
+    {
+      "code": "LICENSE-2026-D65B-8W66",
+      "used": false,
+      "deviceId": null
     }
   ]
 }

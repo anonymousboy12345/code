@@ -14,6 +14,11 @@
       "code": "1258",
       "used": false,
       "deviceId": null
+    },
+    {
+      "code": "0070",
+      "used": false,
+      "deviceId": null
     }
   ]
 }

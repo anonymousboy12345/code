@@ -1,1 +1,9 @@
-{"devices": [""]}
+{
+  "codes": [
+    {
+      "code": "LICENSE-2026-XYZ",
+      "used": false,
+      "deviceId": null
+    }
+  ]
+}
